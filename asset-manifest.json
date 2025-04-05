@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/NyAvoSarobidy/Ecommerce.git/static/css/main.c8d24275.css",
-    "main.js": "/NyAvoSarobidy/Ecommerce.git/static/js/main.e2dec8ac.js",
+    "main.js": "/NyAvoSarobidy/Ecommerce.git/static/js/main.704df21a.js",
     "static/js/453.8ab44547.chunk.js": "/NyAvoSarobidy/Ecommerce.git/static/js/453.8ab44547.chunk.js",
     "index.html": "/NyAvoSarobidy/Ecommerce.git/index.html",
     "main.c8d24275.css.map": "/NyAvoSarobidy/Ecommerce.git/static/css/main.c8d24275.css.map",
-    "main.e2dec8ac.js.map": "/NyAvoSarobidy/Ecommerce.git/static/js/main.e2dec8ac.js.map",
+    "main.704df21a.js.map": "/NyAvoSarobidy/Ecommerce.git/static/js/main.704df21a.js.map",
     "453.8ab44547.chunk.js.map": "/NyAvoSarobidy/Ecommerce.git/static/js/453.8ab44547.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c8d24275.css",
-    "static/js/main.e2dec8ac.js"
+    "static/js/main.704df21a.js"
   ]
 }
